@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\prprpr24\bin\Debug\net8.0\prprpr24.exe
+C:\Users\Admin\Documents\GitHub\prprpr24\bin\Debug\net8.0\prprpr24.deps.json
+C:\Users\Admin\Documents\GitHub\prprpr24\bin\Debug\net8.0\prprpr24.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\prprpr24\bin\Debug\net8.0\prprpr24.dll
+C:\Users\Admin\Documents\GitHub\prprpr24\bin\Debug\net8.0\prprpr24.pdb
+C:\Users\Admin\Documents\GitHub\prprpr24\obj\Debug\net8.0\prprpr24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\prprpr24\obj\Debug\net8.0\prprpr24.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\prprpr24\obj\Debug\net8.0\prprpr24.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\prprpr24\obj\Debug\net8.0\prprpr24.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\prprpr24\obj\Debug\net8.0\prprpr24.sourcelink.json
+C:\Users\Admin\Documents\GitHub\prprpr24\obj\Debug\net8.0\prprpr24.dll
+C:\Users\Admin\Documents\GitHub\prprpr24\obj\Debug\net8.0\refint\prprpr24.dll
+C:\Users\Admin\Documents\GitHub\prprpr24\obj\Debug\net8.0\prprpr24.pdb
+C:\Users\Admin\Documents\GitHub\prprpr24\obj\Debug\net8.0\prprpr24.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\prprpr24\obj\Debug\net8.0\ref\prprpr24.dll
